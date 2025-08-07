@@ -13,7 +13,7 @@
     display: flex;
     gap: 1.5rem;
 
-    /* animation: rolling 2s linear infinite; */
+    animation: rolling 2s linear infinite;
   }
 
   .bg-gradient-animate {
